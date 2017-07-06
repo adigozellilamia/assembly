@@ -1,0 +1,28 @@
+Assembly programlama dili haqqinda.
+ 
+ Asagi seviyyeli proqramlasdirma dillerinden olub C, C++, Pascal, Basic gibi yüksek
+seviyeli programlama dillerine göre anlasilmasi biraz daha cetindir.
+ 
+ Menfi cehetleri
+
+1.Assembly oyrenmesi cetin bir dildir.
+2.Yazilan proqramlar diger dillere gore daha cox setirden ibaretdir.
+3.Anlashilmasi cetin dil oldugundan yazdiginiz proqramin hansi setirlerin ne ishe yaradigini daha sonradan anlashilir. 
+Bunun ucun kodlarin sonuna aciglama bolmeleri elave etmek cozum olacag.
+ 
+ Musbet cehetleri
+
+1.Eslinde assembly programlarinin en önemli özellikleri yüksek seviyeli bir dil ile
+yazilan programlara nezeren çok kicik olmasi ve buna bagli olarak çok tez ishlemesidir.
+2.Programlarin suretli ishlemesi kodlarinin sadeliyinden qaynaglanir.
+
+
+C proqramlashdirma dili haqqinda. 
+ 
+ Orta seviyyeli proqramlasdirma dilli olub bir çox diller (Java, C++, C# ve s) öz sintaksisin bu dil esasinda qurublar. 
+Bu dili bilmekle diger dillere keçmek asan olacaq.
+Sintaksisinin rahatligina göre C dili qisa zamanda meshurlasmis ve proqramçilarin en sevimli dillerinden birine çevrilmisdir. 
+C dili hal-hazirda en çox sistem proqramlasdirmasi üçün istifade edilir. Linux emeliyyat sisteminin nüvesi (kernel) C dilinde yazilmisdir.
+C dilinde yazilan proqramlar çox süretli ve tehlükesiz oldugundan, ciddi proyektler, esasen bu dilde yaradilir. 
+Buraya emeliyyatlar sistemleri (bütün Unix tipli sistemlerin hamisi C dilinde yazilib), 
+Google axtaris sistemi ve bir çox diger proqramlari aid etmek olar. 
